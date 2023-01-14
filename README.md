@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FrankYChills
-- 👀 I’m interested in Blockchain and Smart Contracts
-- 🌱 I’m currently learning Web3 development with Javascript
-- 💞️ I’m looking to collaborate on Web3 Projects
+- 👋 Hi, I’m Karan Chilwal
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Typescript and NextJS
+- 💞️ I’m looking for internships or an entry level job
 
 
 <!---
