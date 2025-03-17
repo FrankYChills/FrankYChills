@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan Chilwal
 - 🌱 I’m currently working as an iOS Developer.
-- - 💞️  I'm Eager to contribute to innovative projects and collaborate with talented teams.
+- 💞️ I'm Eager to contribute to innovative projects and collaborate with talented teams.
 - 👀 Always keeping an eye on the new stuff
 
 
