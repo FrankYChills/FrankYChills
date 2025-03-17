@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karan Chilwal
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Typescript and NextJS
-- 💞️ I’m looking for internships or an entry level job
+- 🌱 I’m currently working as an iOS Developer.
+- - 💞️  I'm Eager to contribute to innovative projects and collaborate with talented teams.
+- 👀 Always keeping an eye on the new stuff
 
 
 <!---
